@@ -7,7 +7,7 @@ const Logo = props => {
     <SmartLink href='/' passHref legacyBehavior>
       <div
         className={
-          'flex flex-col justify-center items-center cursor-pointer bg-black dark:bg-gray-800 space-y-3 font-bold ' +
+          'flex flex-col justify-center items-center cursor-pointer bg-blue dark:bg-gray-800 space-y-3 font-bold ' +
           className
         }>
         <div
