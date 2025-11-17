@@ -12,7 +12,7 @@ const Style = () => {
         background-color: #eeedee;
       }
       .dark body {
-        background-color: blue;
+        background-color: black;
       }
 
       // 菜单下划线动画
