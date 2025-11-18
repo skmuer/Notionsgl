@@ -60,18 +60,18 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: '/images/heo/sms1.webp',
+      img_1: '/images/heo/SMS1.webp',
       color_1: '#989bf8',
       title_2: 'Sketch',
-      img_2: '/images/heo/sms2.webp',
+      img_2: '/images/heo/SMS2.webp',
       color_2: '#ffffff'
     },
     {
       title_1: 'Docker',
-      img_1: '/images/heo/sms3.webp',
+      img_1: '/images/heo/SMS3.webp',
       color_1: '#57b6e6',
       title_2: 'Photoshop',
-      img_2: '/images/heo/sms4.webp',
+      img_2: '/images/heo/SMS4.webp',
       color_2: '#4082c3'
     },
     {
@@ -108,10 +108,10 @@ const CONFIG = {
     },
     {
       title_1: 'Git',
-      img_1: '/images/heo/sms4.webp',
+      img_1: '/images/heo/SMS4.webp',
       color_1: '#df5b40',
       title_2: 'Rhino',
-      img_2: '/images/heo/sms3.webp',
+      img_2: '/images/heo/SMS3.webp',
       color_2: '#1f1f1f'
     }
   ],
@@ -120,7 +120,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入QQ社群',
-  HEO_SOCIAL_CARD_URL: 'https://461203.XYZ',
+  HEO_SOCIAL_CARD_URL: 'https://qun.qq.com/universal-share/share?ac=1&authKey=Y8oTZc7klxNcXe99UJbzelz30iZesVxDmg8eeMaErbOAJMut8cDEE2XQMx02XGo8&busi_data=eyJncm91cENvZGUiOiI5ODU2MjIwNjYiLCJ0b2tlbiI6IlVzSUJmRGl5L1dQeSt3QjV4ZUhka1hZWEdmTFRUa0E3VjBjOVN6Zkl5QmN0VUR1OVlIczlnT0RzK2J5bzQ5WWoiLCJ1aW4iOiI4MDUxNTc1NzkifQ%3D%3D&data=pU4msX7GtFBarj8gtrkoSKxBbrtpfxLHFGzna2zEzw9Dv82QzuNG_Z2GvxXMv1Zw9H-6BeBCk_6YAec5f4hCEQ&svctype=4&tempid=h5_group_info',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
