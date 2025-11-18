@@ -6,7 +6,7 @@ import { siteConfig } from '@/lib/config'
  */
 export default function PoweredBy(props) {
   return (
-    <div className={`block mx-auto text-sm font-serif ${props.className || ''}`}>
+    <div className={`flex justify-center text-sm font-serif ${props.className || ''}`}>
       <span className='mr-1'>Powered by</span>
       <a
         href='https://github.com'
