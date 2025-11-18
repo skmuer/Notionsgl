@@ -61,18 +61,18 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: '/images/heo/SMS1.webp',
+      img_1: '/images/heo/sms1.webp',
       color_1: '#989bf8',
       title_2: 'Sketch',
-      img_2: '/images/heo/SMS2.webp',
+      img_2: '/images/heo/sms2.webp',
       color_2: '#ffffff'
     },
     {
       title_1: 'Docker',
-      img_1: '/images/heo/SMS3.webp',
+      img_1: '/images/heo/sms3.webp',
       color_1: '#57b6e6',
       title_2: 'Photoshop',
-      img_2: '/images/heo/SMS4.webp',
+      img_2: '/images/heo/sms4.webp',
       color_2: '#4082c3'
     },
     {
@@ -109,10 +109,10 @@ const CONFIG = {
     },
     {
       title_1: 'Git',
-      img_1: '/images/heo/SMS4.webp',
+      img_1: '/images/heo/sms4.webp',
       color_1: '#df5b40',
       title_2: 'Rhino',
-      img_2: '/images/heo/SMS3.webp',
+      img_2: '/images/heo/sms3.webp',
       color_2: '#1f1f1f'
     }
   ],
