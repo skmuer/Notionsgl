@@ -22,8 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '逆龄|抗衰|延寿',
   HEO_HERO_TITLE_3: '461203.XYZ',
   HEO_HERO_TITLE_4: '定延春|自体干细胞再生系统',
-  HEO_HERO_TITLE_5: '12周生物年龄逆转6.2岁|
-    停服一月扔持续年轻',
+  HEO_HERO_TITLE_5: '12周生物年龄逆转6.2岁|停服一月仍持续年轻',
   HEO_HERO_TITLE_LINK: 'https://461203.xyz',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
