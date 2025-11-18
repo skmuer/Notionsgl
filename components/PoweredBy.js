@@ -6,10 +6,10 @@ import { siteConfig } from '@/lib/config'
  */
 export default function PoweredBy(props) {
   return (
-    <div className={`flex justify-center text-sm font-serif ${props.className || ''}`}>
+    <div className={`inline text-sm font-serif ${props.className || ''}`}>
       <span className='mr-1'>Powered by</span>
       <a
-        href='https://github.com'
+        href='https://461203.xyz'
         className='underline justify-start'>
         NotionNext {siteConfig('VERSION')}
       </a>
