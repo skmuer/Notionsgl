@@ -22,7 +22,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '逆龄|抗衰|延寿',
   HEO_HERO_TITLE_3: '461203.XYZ',
   HEO_HERO_TITLE_4: '定延春|自体干细胞再生系统',
-  HEO_HERO_TITLE_5: '12周生物年龄逆转6.2岁|停服一月扔持续年轻',
+  HEO_HERO_TITLE_5: '12周生物年龄逆转6.2岁|
+    停服一月扔持续年轻',
   HEO_HERO_TITLE_LINK: 'https://461203.xyz',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
@@ -60,58 +61,58 @@ const CONFIG = {
   HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
-      img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
+      img_1: '/images/heo/SMS1.webp',
       color_1: '#989bf8',
       title_2: 'Sketch',
-      img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
+      img_2: '/images/heo/SMS2.webp',
       color_2: '#ffffff'
     },
     {
       title_1: 'Docker',
-      img_1: '/images/heo/20231108a540b2862d26f8850172e4ea58ed075102.webp',
+      img_1: '/images/heo/SMS3.webp',
       color_1: '#57b6e6',
       title_2: 'Photoshop',
-      img_2: '/images/heo/2023e4058a91608ea41751c4f102b131f267075902.webp',
+      img_2: '/images/heo/SMS4.webp',
       color_2: '#4082c3'
     },
     {
       title_1: 'FinalCutPro',
-      img_1: '/images/heo/20233e777652412247dd57fd9b48cf997c01070702.webp',
+      img_1: '/images/heo/sms5.webp',
       color_1: '#ffffff',
       title_2: 'Python',
-      img_2: '/images/heo/20235c0731cd4c0c95fc136a8db961fdf963071502.webp',
+      img_2: '/images/heo/sms6.webp',
       color_2: '#ffffff'
     },
     {
       title_1: 'Swift',
-      img_1: '/images/heo/202328bbee0b314297917b327df4a704db5c072402.webp',
+      img_1: '/images/heo/sms7.webp',
       color_1: '#eb6840',
       title_2: 'Principle',
-      img_2: '/images/heo/2023f76570d2770c8e84801f7e107cd911b5073202.webp',
+      img_2: '/images/heo/sms8.webp',
       color_2: '#8f55ba'
     },
     {
       title_1: 'illustrator',
-      img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
+      img_1: '/images/heo/sms8.webp',
       color_1: '#f29e39',
       title_2: 'CSS3',
-      img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
+      img_2: '/images/heo/sms7.webp',
       color_2: '#2c51db'
     },
     {
       title_1: 'JS',
-      img_1: '/images/heo/2023786e7fc488f453d5fb2be760c96185c0075502.webp',
+      img_1: '/images/heo/sms6.webp',
       color_1: '#f7cb4f',
       title_2: 'HTML',
-      img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
+      img_2: '/images/heo/sms5.webp',
       color_2: '#e9572b'
     },
     {
       title_1: 'Git',
-      img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
+      img_1: '/images/heo/SMS4.webp',
       color_1: '#df5b40',
       title_2: 'Rhino',
-      img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
+      img_2: '/images/heo/SMS3.webp',
       color_2: '#1f1f1f'
     }
   ],
@@ -119,8 +120,8 @@ const CONFIG = {
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_TITLE_3: '点击加入QQ社群',
+  HEO_SOCIAL_CARD_URL: 'https://qun.qq.com/universal-share/share?ac=1&authKey=Y8oTZc7klxNcXe99UJbzelz30iZesVxDmg8eeMaErbOAJMut8cDEE2XQMx02XGo8&busi_data=eyJncm91cENvZGUiOiI5ODU2MjIwNjYiLCJ0b2tlbiI6IlVzSUJmRGl5L1dQeSt3QjV4ZUhka1hZWEdmTFRUa0E3VjBjOVN6Zkl5QmN0VUR1OVlIczlnT0RzK2J5bzQ5WWoiLCJ1aW4iOiI4MDUxNTc1NzkifQ%3D%3D&data=pU4msX7GtFBarj8gtrkoSKxBbrtpfxLHFGzna2zEzw9Dv82QzuNG_Z2GvxXMv1Zw9H-6BeBCk_6YAec5f4hCEQ&svctype=4&tempid=h5_group_info',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
